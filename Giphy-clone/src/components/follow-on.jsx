@@ -7,13 +7,13 @@ const FollowOn = () => {
     >
       <span>Follow on:</span>
       <div className="flex gap-4 pt-3">
-        <a href="https://www.youtube.com/roadsidecoder">
+        <a href="">
           <FaYoutube size={20} />
         </a>
-        <a href="https://www.instagram.com/roadsidecoder">
+        <a href="">
           <FaInstagram size={20} />
         </a>
-        <a href="https://www.twitter.com/piyush_eon">
+        <a href="">
           <FaXTwitter size={20} />
         </a>
       </div>
